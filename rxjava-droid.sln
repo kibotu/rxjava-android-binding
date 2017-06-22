@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naxam.RxJava.Droid", "Naxam.RxJava.Droid\Naxam.RxJava.Droid.csproj", "{6E16E43F-BD57-477A-AC3A-A6E5DF3ED173}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RxJavaQs", "demo\RxJavaQs\RxJavaQs.csproj", "{63353E85-0BBE-4064-8EB6-23EFAE9A885E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "demo", "demo", "{89BBC38C-B164-48EF-80F3-00B2B8FD3712}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E16E43F-BD57-477A-AC3A-A6E5DF3ED173}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E16E43F-BD57-477A-AC3A-A6E5DF3ED173}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E16E43F-BD57-477A-AC3A-A6E5DF3ED173}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E16E43F-BD57-477A-AC3A-A6E5DF3ED173}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63353E85-0BBE-4064-8EB6-23EFAE9A885E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63353E85-0BBE-4064-8EB6-23EFAE9A885E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63353E85-0BBE-4064-8EB6-23EFAE9A885E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63353E85-0BBE-4064-8EB6-23EFAE9A885E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{63353E85-0BBE-4064-8EB6-23EFAE9A885E} = {89BBC38C-B164-48EF-80F3-00B2B8FD3712}
+	EndGlobalSection
+EndGlobal
